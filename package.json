@@ -1,0 +1,12 @@
+{
+  "name": "noticias-static-site",
+  "version": "1.0.0",
+  "description": "Sitio web estático de noticias",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -s ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
